@@ -1,4 +1,4 @@
-# Project Title : Reverse Engineering Code
+# Project Title : Reverse Engineering Authentication
 
 ## Project Description:
 
@@ -23,9 +23,9 @@ Run npm start
 
 N/A
 
-## Contributors
+## Contributor
 
-Robert McKenney, Abdul Amoud and Igor Calvacante
+Hailey Nicole
 
 ## Test
 
@@ -61,7 +61,7 @@ SOFTWARE.
 
 ## Author
 
-![GitHub profile pic](https://avatars0.githubusercontent.com/u/60677888?v=4)
+![GitHub profile pic](https://avatars1.githubusercontent.com/u/66336162?s=460&u=ccfd81b295fdd0741f792fc0656e043c7aaf9f63&v=4)
 
 ## Badges
 
