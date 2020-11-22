@@ -1,4 +1,4 @@
-# Project Title : Reverse Engineering Authenticatio
+Reverse Engineering Authenticatio
 
 ## Table of Contents
 
