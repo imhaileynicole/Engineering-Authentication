@@ -1,4 +1,4 @@
-Reverse Engineering Authenticatio
+Reverse Engineering Authentication
 
 ## Table of Contents
 
