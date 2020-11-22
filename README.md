@@ -1,8 +1,4 @@
-# Project Title : Reverse Engineering Authentication
-
-## Project Description:
-
-When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
+# Project Title : Reverse Engineering Authenticatio
 
 ## Table of Contents
 
@@ -32,8 +28,8 @@ Hailey Nicole
 N/A
 
 ## Questions
-
-If you have any questions, contact savabel on GitHub.
+If you have any questions
+  ### [E-mail Me Here!](Hailey.parker@yahoo.com)
 
 ## License
 
@@ -63,6 +59,3 @@ SOFTWARE.
 
 ![GitHub profile pic](https://avatars1.githubusercontent.com/u/66336162?s=460&u=ccfd81b295fdd0741f792fc0656e043c7aaf9f63&v=4)
 
-## Badges
-
-![badmath](https://img.shields.io/github/repo-size/savabel/https://github.com/savabel/ReverseEngineeringAuthentication)
